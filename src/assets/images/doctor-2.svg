@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2021 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.92298in" height="4.89394in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 533.82 530.67"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.38892in" height="1.36645in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40.24 39.58"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil3 {fill:none}
-    .fil0 {fill:#99CC33}
-    .fil1 {fill:#B3B3B3}
-    .fil2 {fill:#CC6633}
+    .fil2 {fill:none}
+    .fil0 {fill:#B3B3B3}
+    .fil1 {fill:#CC6633}
    ]]>
   </style>
    <clipPath id="id0">
-    <path d="M-0 0l533.82 0 0 530.67 -533.82 0 0 -530.67z"/>
+    <path d="M-0 0l40.24 0 0 39.58 -40.24 0 0 -39.58z"/>
    </clipPath>
     <clipPath id="id1">
-     <path d="M-0 0l533.82 0 0 530.67 -533.82 0 0 -530.67z"/>
+     <path d="M40.22 0l0 39.58 -40.2 0 0 -39.58 40.2 0z"/>
     </clipPath>
      <clipPath id="id2">
-      <path d="M-0 0l533.82 0 0 530.67 -533.82 0 0 -530.67z"/>
+      <path d="M40.22 0l0 39.58 -40.2 0 0 -39.58 40.2 0z"/>
      </clipPath>
      <clipPath id="id3">
-      <path d="M-0 0l533.82 0 0 530.67 -533.82 0 0 -530.67z"/>
+      <path d="M40.22 0l0 39.58 -40.2 0 0 -39.58 40.2 0z"/>
      </clipPath>
     <clipPath id="id4">
-     <path d="M-0 0l533.82 0 0 530.67 -533.82 0 0 -530.67z"/>
+     <path d="M-0 0l40.24 0 0 39.58 -40.24 0 0 -39.58z"/>
     </clipPath>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <polygon class="fil0" points="-0,0 533.82,0 533.82,530.67 -0,530.67 "/>
+  <g>
+  </g>
   <g style="clip-path:url(#id0)">
-   <g id="_2174871377776">
-    <polygon id="_1" class="fil1" points="-1.25,-0.56 536.72,-0.56 536.72,676.24 -1.25,676.24 "/>
+   <g>
+    <polygon class="fil0" points="0.02,-0.13 40.22,-0.13 40.22,50.45 0.02,50.45 "/>
    </g>
    <g style="clip-path:url(#id1)">
-    <g>
+    <g id="_3143924173088">
     </g>
     <g style="clip-path:url(#id2)">
-     <image x="-64.81" y="-75.46" width="679.07" height="1019.08" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAssAAAQxCAIAAAEgtGdfAAAACXBIWXMA
+     <image x="-4.73" y="-5.72" width="50.75" height="76.16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAssAAAQxCAIAAAEgtGdfAAAACXBIWXMA
 AC4jAAAuIwF4pT92AAAgAElEQVR4nJx8B/xdRZX/zNy5/fX36z29Q0INvRcB0UVQQbGByCquIquy
 gusuCv5RaSJFliIigoCIlFATagglhYT05Nd7ef3dfu/M/8z7JTSDq3vlE5NX7p175pxvOTP3UfQP
 HInGC8sTdyL+wdcIQgz+xIiJlzH60LtGCkkZNRknnDIlqYXs+G+f8/jPLovKbu2zRFaY5KOZs2Y4
@@ -21237,13 +21237,13 @@ W+KtsdsqohCpxJKG4O2cvrDrod1N2MdQtnrm7yZesSJ4F9eAvdByq2j2LLs3qF5YhZEoj5QLefmH
 ia1L2kCE+UCexDijff9/yW+3jfitlL8AAAAASUVORK5CYII="/>
     </g>
     <g style="clip-path:url(#id3)">
-     <rect class="fil2" x="-163.17" y="532.03" width="780.51" height="254.32"/>
+     <rect class="fil1" x="-12.08" y="39.67" width="58.33" height="19.01"/>
     </g>
    </g>
    <g style="clip-path:url(#id4)">
-    <polygon class="fil3" points="-1.25,-0.56 536.72,-0.56 536.72,676.24 -1.25,676.24 "/>
+    <polygon class="fil2" points="0.02,-0.13 40.22,-0.13 40.22,50.45 0.02,50.45 "/>
    </g>
   </g>
-  <polygon class="fil3" points="-0,0 533.82,0 533.82,530.67 -0,530.67 "/>
+  <polygon class="fil2" points="-0,0 40.24,0 40.24,39.58 -0,39.58 "/>
  </g>
 </svg>

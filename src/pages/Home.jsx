@@ -11,10 +11,8 @@ import Footer from "../components/Footer";
 const Home = () => {
   return (
     <div>
-      <div className="home-hero">
-        <Navbar />
-        <HomeHero />
-      </div>
+      <Navbar />
+      <HomeHero />
       <HomeMain />
       <Hospital />
       <Service />

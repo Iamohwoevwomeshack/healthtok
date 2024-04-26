@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2021 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.13597in" height="3.75096in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 774.54 702.44"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.13391in" height="1.02904in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 28.44 25.81"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
@@ -13,23 +13,23 @@ viewBox="0 0 774.54 702.44"
    ]]>
   </style>
    <clipPath id="id0">
-    <path d="M64.09 0l646.37 0c35.25,0 64.09,28.84 64.09,64.09l0 638.35 -774.54 0 0 -638.35c0,-35.25 28.84,-64.09 64.09,-64.09z"/>
+    <path d="M2.32 0l23.76 0c1.3,0 2.36,1.06 2.36,2.36l0 23.45 -28.44 0 0 -23.87c0.2,-1.1 1.17,-1.93 2.32,-1.93z"/>
    </clipPath>
     <clipPath id="id1">
-     <path d="M64.09 0l646.37 0c35.25,0 64.09,28.84 64.09,64.09l0 638.35 -774.54 0 0 -638.35c0,-35.25 28.84,-64.09 64.09,-64.09z"/>
+     <path d="M2.32 0l23.76 0c1.3,0 2.36,1.06 2.36,2.36l0 23.45 -28.44 0 0 -23.87c0.2,-1.1 1.17,-1.93 2.32,-1.93z"/>
     </clipPath>
     <clipPath id="id2">
-     <path d="M64.09 0l646.37 0c35.25,0 64.09,28.84 64.09,64.09l0 638.35 -774.54 0 0 -638.35c0,-35.25 28.84,-64.09 64.09,-64.09z"/>
+     <path d="M2.32 0l23.76 0c1.3,0 2.36,1.06 2.36,2.36l0 23.45 -28.44 0 0 -23.87c0.2,-1.1 1.17,-1.93 2.32,-1.93z"/>
     </clipPath>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <path class="fil0" d="M64.09 0l646.37 0c35.25,0 64.09,28.84 64.09,64.09l0 638.35 -774.54 0 0 -638.35c0,-35.25 28.84,-64.09 64.09,-64.09z"/>
+  <path class="fil0" d="M2.32 0l23.76 0c1.3,0 2.36,1.06 2.36,2.36l0 23.45 -28.44 0 0 -23.87c0.2,-1.1 1.17,-1.93 2.32,-1.93z"/>
   <g style="clip-path:url(#id0)">
-   <g id="_2044406328352">
+   <g id="_3108395519488">
    </g>
    <g style="clip-path:url(#id1)">
-    <image id="diabetes-typy-cukrovky-lecba-prevence.jpg" x="-201.81" y="-18.34" width="1080.78" height="720.88" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAKbCAIAAAGeBwf+AAAACXBIWXMA
+    <image id="diabetes-typy-cukrovky-lecba-prevence.jpg" x="-7.46" y="-0.67" width="39.74" height="26.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAKbCAIAAAGeBwf+AAAACXBIWXMA
 AA7DAAAOwwHHb6hkAAAgAElEQVR4nIx9B4AkRbl/de6enrjxdvd2924vc/kIJ/E4QNIJIuJDFAxP
 TBieCbNPARWfqP/H8+kzoWB4hoeCIGAA5Mj5SMcBl8PmnRw6d/+/qprpqemZPW3PZaanQ9VXX/2+
 3/fVV1XivgP7ETk4cvA8D3/haxAEXOOgX8PL6Ae4MrwM/oZfEXPQk+HBkR8DDkUOet51XVEUI7dr
@@ -8921,6 +8921,6 @@ dyMXeTZr3R6rc8p4xXmI98OV7wsfah6N0QX300k+J3FgYj3/Anme522+p7tlAAAAAElFTkSuQmCC
    <g style="clip-path:url(#id2)">
    </g>
   </g>
-  <path class="fil1" d="M64.09 0l646.37 0c35.25,0 64.09,28.84 64.09,64.09l0 638.35 -774.54 0 0 -638.35c0,-35.25 28.84,-64.09 64.09,-64.09z"/>
+  <path class="fil1" d="M2.32 0l23.76 0c1.3,0 2.36,1.06 2.36,2.36l0 23.45 -28.44 0 0 -23.87c0.2,-1.1 1.17,-1.93 2.32,-1.93z"/>
  </g>
 </svg>

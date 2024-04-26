@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2021 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7.8508in" height="8.18968in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 4156 4335.4"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.15526in" height="2.24829in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 115.88 120.89"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
@@ -12,13 +12,13 @@ viewBox="0 0 4156 4335.4"
    ]]>
   </style>
    <clipPath id="id0">
-    <path d="M79.29 0l3997.43 0c43.61,0 79.29,35.68 79.29,79.29l0 4176.82c0,43.61 -35.68,79.29 -79.29,79.29l-3997.43 0c-43.61,0 -79.29,-35.68 -79.29,-79.29l0 -4176.82c0,-43.61 35.68,-79.29 79.29,-79.29z"/>
+    <path d="M2.21 0l111.46 0c1.22,0 2.21,0.99 2.21,2.21l0 116.47c0,1.22 -0.99,2.21 -2.21,2.21l-111.46 0c-1.22,0 -2.21,-0.99 -2.21,-2.21l0 -116.47c0,-1.22 0.99,-2.21 2.21,-2.21z"/>
    </clipPath>
     <clipPath id="id1">
-     <path d="M79.29 0l3997.43 0c43.61,0 79.29,35.68 79.29,79.29l0 4176.82c0,43.61 -35.68,79.29 -79.29,79.29l-3997.43 0c-43.61,0 -79.29,-35.68 -79.29,-79.29l0 -4176.82c0,-43.61 35.68,-79.29 79.29,-79.29z"/>
+     <path d="M2.21 0l111.46 0c1.22,0 2.21,0.99 2.21,2.21l0 116.47c0,1.22 -0.99,2.21 -2.21,2.21l-111.46 0c-1.22,0 -2.21,-0.99 -2.21,-2.21l0 -116.47c0,-1.22 0.99,-2.21 2.21,-2.21z"/>
     </clipPath>
     <clipPath id="id2">
-     <path d="M79.29 0l3997.43 0c43.61,0 79.29,35.68 79.29,79.29l0 4176.82c0,43.61 -35.68,79.29 -79.29,79.29l-3997.43 0c-43.61,0 -79.29,-35.68 -79.29,-79.29l0 -4176.82c0,-43.61 35.68,-79.29 79.29,-79.29z"/>
+     <path d="M2.21 0l111.46 0c1.22,0 2.21,0.99 2.21,2.21l0 116.47c0,1.22 -0.99,2.21 -2.21,2.21l-111.46 0c-1.22,0 -2.21,-0.99 -2.21,-2.21l0 -116.47c0,-1.22 0.99,-2.21 2.21,-2.21z"/>
     </clipPath>
  </defs>
  <g id="Layer_x0020_1">
@@ -29,7 +29,7 @@ viewBox="0 0 4156 4335.4"
    <g>
    </g>
    <g style="clip-path:url(#id1)">
-    <image id="about.jpeg" x="-1339.65" y="-65.82" width="5523.99" height="4524.19" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAwAAAAJ1CAIAAAGWfDCJAAAACXBIWXMA
+    <image id="about.jpeg" x="-37.35" y="-1.84" width="154.03" height="126.15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAwAAAAJ1CAIAAAGWfDCJAAAACXBIWXMA
 AC4jAAAuIwF4pT92AAAgAElEQVR4nKS9B5gc1ZU2XDl1TtM9OUmakUY5ICEkhEAgkshgksE22Lt4
 WYy9gME4e1nW2Wt7beMIBofFNsHkjEBCEso5jNKMJndP58rhfudWdfeMgr3e/68HRj3d1VW3zj3n
 Pe8J9w6zv68/XyywDEfTtCSK8JMkSUtTcvlRkZfg4FiBYRiKouAD+IkQIgjH5wsQDukgRFMEHIZj
@@ -11770,6 +11770,6 @@ RK5CYII="/>
    <g style="clip-path:url(#id2)">
    </g>
   </g>
-  <path class="fil0" d="M79.29 0l3997.43 0c43.61,0 79.29,35.68 79.29,79.29l0 4176.82c0,43.61 -35.68,79.29 -79.29,79.29l-3997.43 0c-43.61,0 -79.29,-35.68 -79.29,-79.29l0 -4176.82c0,-43.61 35.68,-79.29 79.29,-79.29z"/>
+  <path class="fil0" d="M2.21 0l111.46 0c1.22,0 2.21,0.99 2.21,2.21l0 116.47c0,1.22 -0.99,2.21 -2.21,2.21l-111.46 0c-1.22,0 -2.21,-0.99 -2.21,-2.21l0 -116.47c0,-1.22 0.99,-2.21 2.21,-2.21z"/>
  </g>
 </svg>
