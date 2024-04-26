@@ -1,8 +1,9 @@
 import React from "react";
-import md1 from "../assets/images/md-1.svg";
-import md2 from "../assets/images/md-2.svg";
-import md3 from "../assets/images/md-3.svg";
-import md4 from "../assets/images/md-4.svg";
+import md from "../assets/images/md.png";
+import md1 from "../assets/images/md-1.png";
+import md2 from "../assets/images/md-2.png";
+import md3 from "../assets/images/md-3.png";
+import md4 from "../assets/images/md-4.png";
 import whoweare from "../assets/images/who-are-we.svg";
 import { Link } from "react-router-dom";
 
@@ -18,7 +19,7 @@ const HomeMain = () => {
       </div>
       <hr />
       <div className="home-main-img-phone">
-        <img src={md1} alt="" />
+        <img src={md} alt="" />
       </div>
       <div className="home-main-img">
         <img src={md1} alt="" />
